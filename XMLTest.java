@@ -91,5 +91,8 @@ public class XMLTest {
 
         return xmlStr;
     }
-	//test modify in branch xmlPrase2   master
+
+	//test modify in branch xmlPrase2   master branch2
+
+
 }
